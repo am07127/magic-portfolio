@@ -55,7 +55,7 @@ const home = {
   headline: <>Software Developer and Deep Learning Enthusiast</>,
   subline: (
     <>
-      I'm Asad, a developer who <br/> brings ideas to life. Crafting innovative solutions, one line of code at a time.
+      I'm Asad, a developer who brings ideas to life. Crafting innovative solutions, <br/>one line of code at a time.
     </>
   ),
 };
